@@ -1,0 +1,20 @@
+<!DOCTYPE html> <!--Sets the document type to HTML5-->
+<html lang="en"> <!--Sets the language of the document to English-->
+    
+    <head> <!--Contains the title of the webpage and metadata-->
+        <title>My First Webpage</title> <!-- Sets the title of the webpage -->
+    </head> <!--Closes the head element-->
+
+    <body> <!-- Contains the visible part of the webpage-->
+
+        <h1> Username: gm494 </h1> <!--Displays the username in the largest heaing size-->
+        <h2> Course Name: Introduction to Web Development </h2> <!--Displays the course name in the second largest heading size--> 
+        <h3> Course Number and Section: IS117-007 </h3> <!--Displays the course number and section in the third largest heading size-->
+        
+        <footer> <!--Adds a footer section to your webpage-->
+            <p>&copy 2025 Gabrielle Madric - Due Date: October 14, 2025</p>
+             <!-- &copy; is the HTML entity for the copyright symbol-->
+            <!--Displays my name and the due date  for the assignment-->
+        </footer>
+    </body> <!--Closes the body element and ends the visible parts of the webpage-->
+</html> <!-- Ends the html document-->
